@@ -4,7 +4,7 @@
 ## :sassy_man:  About me
 - :school: I am a Master's student in `Robotics and Artificial Intelligence` at University of Guadalajara
 - :man_student: Bachelor's degree in `Engineering Physics` at University of Guanajuato
-- :thinking: I love AI, Programming, Image Processing Math, Physics
+- :thinking: I love AI, Programming, Image Processing, Math, Physics
 - :man_technologist: Tech enthusiast
 - :nerd_face: Always `learning new things`
 - 👉🏻 Contact Me: angelisasc1968@gmail.com! I'll try to respond as soon as I can.
